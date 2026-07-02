@@ -98,3 +98,8 @@ a:where(:not(.wp-element-button)) {
         background-image: none !important;
     }
 }
+
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+    background-image: none !important;
+}
