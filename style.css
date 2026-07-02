@@ -1,0 +1,10 @@
+iframe {
+    width: 100vw;
+    /* 100% of viewport width */
+    height: 100vh;
+    /* 100% of viewport height */
+    border: none;
+    /* Removes default borders */
+    display: block;
+    /* Eliminates the default bottom gap */
+}
