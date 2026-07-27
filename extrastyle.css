@@ -1646,7 +1646,7 @@ a:where(:not(.wp-element-button)) {
 }
 
 .elementor-widget-icon-list .elementor-icon-list-text {
-  color:var( --e-global-color-secondary );
+  color:#BED417;
 }
 
 .elementor-2490 .elementor-element.elementor-element-59d6f643 > .elementor-widget-container {
