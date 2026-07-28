@@ -8,6 +8,32 @@ iframe {
     display: block;
 }
 
+/* start hyperlink */
+a:link {
+  color: #BED417;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #BED417;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #BED417;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #BED417;
+  background-color: transparent;
+  text-decoration: none;
+}
+/* end hyperlink */
+
 :root {
   --wp--preset--aspect-ratio--square: 1;
     --wp--preset--aspect-ratio--4-3: 4/3;
