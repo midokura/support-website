@@ -130,7 +130,7 @@ nav {
     }
 
     .menu {
-        height: 30%;
+        height: 50%;
         width: 40%;
         flex-direction: column;
         justify-content: start;
